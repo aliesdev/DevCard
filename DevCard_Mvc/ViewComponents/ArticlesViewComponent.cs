@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DevCard_Mvc.ViewComponents;
 
-public class ArticlesViewComponent:ViewComponent
+public class ArticlesViewComponent : ViewComponent
 {
     public IViewComponentResult Invoke()
     {
